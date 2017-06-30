@@ -43,8 +43,8 @@ function seedDB() {
                     // Create a comment
                     Comment.create(
                         {
-                            text: "This place is greate, but I wish there was internet",
-                            author: "Homer"
+                            text: "Lorizzle tellivizzle yo mamma bow wow wow amizzle, consectetuer doggy elit. Shut the shizzle up break yo neck, yall velizzle, bow wow wow volutpizzle, dope tellivizzle, gravida vizzle, bling bling. Pellentesque eget tortor. That's the shizzle phat. Doggy at shizzle my nizzle crocodizzle dapibizzle doggy tempus crazy. Maurizzle yo nibh break it down turpizzle. Yo izzle mofo. Pellentesque pot rhoncizzle mah nizzle. In hac habitasse fo shizzle dictumst. The bizzle dapibus. Curabitizzle tellizzle urna, mofo eu, black nizzle, eleifend vitae, nunc. Pimpin' suscipit. Cool sempizzle sheezy sed yippiyo.",
+                            author: "Snoop Dogg"
                         }, function(err, comment) {
                             if(err) {
                                 console.log(err);
