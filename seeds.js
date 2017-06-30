@@ -6,19 +6,19 @@ var data  = [
     {
         name: "Clouds Rest",
         image: "https://images.unsplash.com/photo-1470246973918-29a93221c455?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=2e0c7ab322888c2775c7796455a6335c",
-        description: "blah blah blah"
+        description: "Lorem ipsizzle dolor pizzle phat, consectetuer adipiscing i'm in the shizzle. Nullam sapien velit, aliquet volutpizzle, suscipizzle ass, gravida vel, shiznit. Pellentesque pimpin' brizzle. Sizzle eros. Boofron dolor dapibizzle turpizzle tempizzle i'm in the shizzle. Boofron pellentesque nibh izzle turpizzle. Shizzlin dizzle izzle fizzle. Break yo neck, yall eleifend break yo neck, yall nisi. In hac habitasse platea dictumst. Mofo dapibus. Uhuh ... yih! tellus dawg, pretizzle , boom shackalack ac, eleifend vitae, nunc. For sure suscipizzle. Integer semper velit sizzle purizzle."
         
     },
     {
         name: "Desert Mesa",
         image: "https://images.unsplash.com/photo-1432817495152-77aa949fb1e2?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=dcacfd227f272fd015c2525d172f54c0",
-        description: "blah blah blah"
+        description: "Julia roberts be kind rewind carlton dance roseanne. Skate tees sports utility vehicles good will hunting home improvement airwalk. Fila ac slater tommy hilfiger turtlenecks, velcro sneakers union jack mazda mpv bike caps tae bo wonderwall. Gangsta’s paradise uncle phil dsl overalls, royal stewart tartan wild cherry pepsi shania twain apollo 13 reebok pumps mario lemieux."
         
     },
     {
         name: "Canyon Floor",
         image: "https://images.unsplash.com/photo-1455763916899-e8b50eca9967?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&cs=tinysrgb&w=1080&fit=max&s=efecec5744914b76ac1c34158d7779f0",
-        description: "blah blah blah"
+        description: "Troll dolls dial-up britpop floppy disk mazda mpv. Free willy nickelodeon boo-ya harrison ford smashing pumpkins jonathan taylor thomas, leopard print tlc snapback hats kazaa braveheart. Toy story boy meets world atlanta braves when you’re lost out there and you’re all alone babyface, piercings I don’t want no scrubs overalls gettin’ jiggy wit it. "
         
     }
 ];
